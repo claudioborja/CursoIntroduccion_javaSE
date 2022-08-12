@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="Introduccion_javaSE:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Cast">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Introduccion_javaSE_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Tipos de datos">
+      <change afterPath="$PROJECT_DIR$/src/Ej4_Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej5_OperacionesMatematicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej6_Cast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +43,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/claudio/IdeaProjects/Introduccion_javaSE",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -188,14 +182,7 @@
       <option name="project" value="LOCAL" />
       <updated>1660343412847</updated>
     </task>
-    <task id="LOCAL-00012" summary="Cast">
-      <created>1660345237362</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1660345237362</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +200,6 @@
     <MESSAGE value="inicial" />
     <MESSAGE value="variables" />
     <MESSAGE value="Tipos de datos" />
-    <MESSAGE value="Cast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipos de datos" />
   </component>
 </project>
