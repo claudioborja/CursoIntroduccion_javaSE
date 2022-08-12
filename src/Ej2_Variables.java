@@ -5,20 +5,22 @@ public class Ej2_Variables {
         System.out.println(speed);
 
         int salary = 1000;
-        String firstname = "Claudio Borja";
+        String firstName = "Claudio Borja";
 
-        System.out.println("My name is, "+ firstname + " and my salary is " + salary);
+        System.out.println("My name is, "+ firstName + " and my salary is " + salary);
 
         int bonus = 200;
         salary += bonus;
 
         System.out.println("My bonus is " + bonus + " and my salary whit bonus is " + salary);
 
-        String lastname = "Saltos";
-        String fullname;
-        fullname = firstname + lastname;
+        String lastName = " Saltos";
+        String fullName;
+        fullName = firstName + lastName;
 
-        System.out.println("My full name is: " +fullname);
+        System.out.println("My full name is: " +fullName);
+
+
 
     }
 }
