@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Cast">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej10_funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej7_If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej8_OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej9_Switch.java" afterDir="false" />
+    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Funciones">
+      <change afterPath="$PROJECT_DIR$/src/Ej11_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej12_while.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduccion_javaSE/Ej10_funciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduccion_javaSE/Ej10_funciones.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ej10_funciones">
+  <component name="RunManager" selected="Application.Ej12_while">
     <configuration name="Ej10_funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ej10_funciones" />
       <module name="Introduccion_javaSE" />
@@ -61,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ej5_OperacionesMatematicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej5_OperacionesMatematicas" />
+    <configuration name="Ej11_doWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej11_doWhile" />
       <module name="Introduccion_javaSE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ej7_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej7_If" />
+    <configuration name="Ej12_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej12_while" />
       <module name="Introduccion_javaSE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ej12_while" />
+        <item itemvalue="Application.Ej11_doWhile" />
         <item itemvalue="Application.Ej10_funciones" />
         <item itemvalue="Application.Ej9_Switch" />
         <item itemvalue="Application.Ej8_OperadoresLogicos" />
-        <item itemvalue="Application.Ej7_If" />
-        <item itemvalue="Application.Ej5_OperacionesMatematicas" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660345893454</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Funciones">
+      <created>1660703034684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660703034684</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Funciones">
+      <created>1660703043001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660703043001</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +223,7 @@
     <MESSAGE value="variables" />
     <MESSAGE value="Tipos de datos" />
     <MESSAGE value="Cast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cast" />
+    <MESSAGE value="Funciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funciones" />
   </component>
 </project>
