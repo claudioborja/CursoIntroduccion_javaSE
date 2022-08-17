@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Tipos de datos">
-      <change afterPath="$PROJECT_DIR$/src/Ej4_Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej5_OperacionesMatematicas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ej6_Cast.java" afterDir="false" />
+    <list default="true" id="fdeba146-c1bb-4100-9bdf-cb44bc5319ca" name="Changes" comment="Cast">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej10_funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej7_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej8_OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ej9_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,37 +45,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/claudio/IdeaProjects/Introduccion_javaSE",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ej5_OperacionesMatematicas">
-    <configuration name="Ej1_HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej1_HolaMundo" />
-      <module name="Introduccion_javaSE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ej2_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej2_Variables" />
-      <module name="Introduccion_javaSE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ej3_TiposDeDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej3_TiposDeDatos" />
-      <module name="Introduccion_javaSE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ej4_Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej4_Operadores" />
+  <component name="RunManager" selected="Application.Ej10_funciones">
+    <configuration name="Ej10_funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej10_funciones" />
       <module name="Introduccion_javaSE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +68,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ej7_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej7_If" />
+      <module name="Introduccion_javaSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej8_OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej8_OperadoresLogicos" />
+      <module name="Introduccion_javaSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej9_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej9_Switch" />
+      <module name="Introduccion_javaSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ej10_funciones" />
+        <item itemvalue="Application.Ej9_Switch" />
+        <item itemvalue="Application.Ej8_OperadoresLogicos" />
+        <item itemvalue="Application.Ej7_If" />
         <item itemvalue="Application.Ej5_OperacionesMatematicas" />
-        <item itemvalue="Application.Ej4_Operadores" />
-        <item itemvalue="Application.Ej3_TiposDeDatos" />
-        <item itemvalue="Application.Ej2_Variables" />
-        <item itemvalue="Application.Ej1_HolaMundo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660343412847</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Cast">
+      <created>1660345893454</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660345893454</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +210,7 @@
     <MESSAGE value="inicial" />
     <MESSAGE value="variables" />
     <MESSAGE value="Tipos de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipos de datos" />
+    <MESSAGE value="Cast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cast" />
   </component>
 </project>
